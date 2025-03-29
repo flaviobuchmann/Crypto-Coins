@@ -1,0 +1,25 @@
+{
+  "name": "TestMemecoin",
+  "symbol": "TMC",
+  "description": "Test Memecoin",
+  "image": "https://raw.githubusercontent.com/flaviobuchmann/Crypto-Coins/main/picture.jpg",
+  "seller_fee_basis_points": 0,
+  "external_url": "https://x.com/BillGates",
+  "attributes": [],
+  "collection": {},
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/flaviobuchmann/Crypto-Coins/main/picture.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "extensions": {
+    "twitter": "https://twitter.com/elonmusk",
+    "telegram": "https://twitter.com/BillGates",
+    "website": "https://web.telegram.org/k/"
+  }
+}
